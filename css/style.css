@@ -1,30 +1,59 @@
 #home {
   display: inline-block;
+  width: 100px;
+  height: 49px;
+  overflow: hidden;
+  white-space: nowrap;
   background: url(../nav-bar-sprite.gif) no-repeat; /* set background image */
-  
+  background-position: 0px 0;
 }
 
-
+#home:hover {
+    background-position: 0 -49px; /* background-position accepts two values the first being horizontal movement and the second being vertical movement. this will re-position image to left 185px on hover */
+}
 
 #about {
   display: inline-block;
+  width: 80px;
+  height: 49px;
+  overflow: hidden;
+  white-space: nowrap;
   background: url(../nav-bar-sprite.gif) no-repeat; /* set background image */
+  background-position: -100px 0px;
 
 }
 
+#about:hover {
+    background-position: -100px -49px; /* background-position accepts two values the first being horizontal movement and the second being vertical movement. this will re-position image to left 185px on hover */
+}
 
 #services {
   display: inline-block;
+  width: 80px;
+  height: 49px;
+  overflow: hidden;
+  white-space: nowrap;
   background: url(../nav-bar-sprite.gif) no-repeat; /* set background image */
-
+  background-position: -190px 0px;
 }
 
+#services:hover {
+    background-position: -190px -49px; /* background-position accepts two values the first being horizontal movement and the second being vertical movement. this will re-position image to left 185px on hover */
+}
 
 #contact {
   display: inline-block;
+  width: 110px;
+  height: 49px;
+  overflow: hidden;
+  white-space: nowrap;
   background: url(../nav-bar-sprite.gif) no-repeat; /* set background image */
+  background-position: -295px 0px;
 }
 
+#contact:hover {
+    background-position: -295px -49px; /* background-position accepts two values the first being horizontal movement and the second being vertical movement. this will re-position image to left 185px on hover */
+}
 
 
 
