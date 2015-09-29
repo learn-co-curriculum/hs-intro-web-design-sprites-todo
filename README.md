@@ -5,7 +5,11 @@ Sprites are typically used in nav bars, for displaying the different pages a use
 <img src="https://s3.amazonaws.com/after-school-assets/nav-bar-sprite.gif">
 
 
-Your job is to set up the nav bar, and set up the hover actions so that when a user hovers their cursor over each nav item, it looks like this:
+Your job is to set up the nav bar so that it looks like this:
+
+<img src="https://s3.amazonaws.com/after-school-assets/nav-bar.png">
+
+And then  set up the hover actions so that when a user hovers their cursor over each nav item, it looks like this:
 
 <img src="https://s3.amazonaws.com/after-school-assets/hover-on-home.png">
 <img src="https://s3.amazonaws.com/after-school-assets/hover-on-services.png">
