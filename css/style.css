@@ -1,0 +1,30 @@
+#home {
+  display: inline-block;
+  background: url(../nav-bar-sprite.gif) no-repeat; /* set background image */
+  
+}
+
+
+
+#about {
+  display: inline-block;
+  background: url(../nav-bar-sprite.gif) no-repeat; /* set background image */
+
+}
+
+
+#services {
+  display: inline-block;
+  background: url(../nav-bar-sprite.gif) no-repeat; /* set background image */
+
+}
+
+
+#contact {
+  display: inline-block;
+  background: url(../nav-bar-sprite.gif) no-repeat; /* set background image */
+}
+
+
+
+
