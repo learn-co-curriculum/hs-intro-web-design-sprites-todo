@@ -23,3 +23,5 @@ Take a look at `pages/index.html` in the text editor. You can see we've set up t
 **Step 2:** Once you have the navigation bar set up, you need to set up the hover. When a user hovers over the nav item, we should see the dark navy color.
 
 **BONUS:** See if you can get the orange color to show up when the link is "active", which is the state when the link is being clicked.
+
+<a href='https://learn.co/lessons/hs-intro-web-design-sprites-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
