@@ -24,4 +24,4 @@ Take a look at `pages/index.html` in the text editor. You can see we've set up t
 
 **BONUS:** See if you can get the orange color to show up when the link is "active", which is the state when the link is being clicked.
 
-<a href='https://learn.co/lessons/hs-intro-web-design-sprites-todo' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-sprites-todo' title='Sprites Practice'>Sprites Practice</a> on Learn.co and start learning to code for free.</p>
